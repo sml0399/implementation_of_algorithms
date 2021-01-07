@@ -1,5 +1,9 @@
 # CLRS
 - Book: Introduction to Algorithms(third edtion by Thomas H. Cormen)
+- Each chapter directory has following three subdirectories: theory, exercise and problem
+  - theory directory contains the cpp, python code derived from the main text of the book explained by pseudocode
+  - exercise directory contains my own solution to the exercises problems and implementation of solution using cpp or python
+  - problem directory contains my own solution to the problems part problems and implementation of solution using cpp or python
 
 ## Foundations
 - CH1: The Role of Algorithms in Computing
