@@ -5,6 +5,4 @@
   - implementation of pseudocode to cpp or python code & solutions with implementation
 - [BOJ: Baekjoon Online Judge](https://www.acmicpc.net/)
   - my own solutions to the BOJ problems.
-  - online link to the problems will be provided(written) to README.md file due to the copyright issue.
-    - https://www.acmicpc.net/help/rule
-    - https://www.acmicpc.net/board/view/2185
+  - online link to the problems will be provided(written) to README.md file due to the copyright issues.[(1)](https://www.acmicpc.net/help/rule)[(2)](https://www.acmicpc.net/board/view/2185)
