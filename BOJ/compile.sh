@@ -1,2 +1,2 @@
 read -p 'filename: ' filename
-g++ -o $filename $filename.cpp
+g++ -o executable/$filename $filename.cpp
