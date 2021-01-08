@@ -4,14 +4,13 @@
   - link to the problem must be mentioned due to the copyright issue
     - https://www.acmicpc.net/board/view/2185
   - Name of the file must start with problem number with 6 digits.
-
-
+  - The codes in this directory must be the most efficient(simple, fast) code for the problem among the codes that I implemented. The code with poor performance(about the same problem) will be stored at 'poor_version' directory.
 
 
 
 - Link to problems
-  ```
-  problem_number | Link
-  
+  - [010828_stack.cpp](https://www.acmicpc.net/problem/10828)
 
-  ```
+
+
+- List of problems that I tried but not solved yet.
