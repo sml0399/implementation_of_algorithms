@@ -1,5 +1,5 @@
 # BOJ
-- my own solution to BOJ problem
+- my own solutions to BOJ problems
 ## rules
 - link to the problem must be mentioned due to the [copyright issue](https://www.acmicpc.net/board/view/2185)
 - Name of the file must start with problem number with 6 digits.
@@ -12,5 +12,10 @@
 - [009012_paranthesis_matching.cpp](https://www.acmicpc.net/problem/9012)
 - [010828_stack.cpp](https://www.acmicpc.net/problem/10828)
 - [001463_make_one.cpp](https://www.acmicpc.net/problem/1463)
+- [001000_A_plus_B.cpp](https://www.acmicpc.net/status?user_id=sml0399&problem_id=1000&from_mine=1)
+
+
+
+
 
 ## List of problems that I tried but not solved yet.
