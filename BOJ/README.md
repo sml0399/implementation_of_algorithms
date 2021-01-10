@@ -17,12 +17,16 @@
   ```
 - clear.sh will remove compiled executable binary files(at 'executable' directory) and temporary files(file name ends with '~')
 - solutions provided by others with better performance is placed at 'others_better_solution' directory
-## Link to problems
+
+## List of problems(with link) that I tried but not solved yet.
+
+## Links to solved problems
 - [001000_A_plus_B.cpp](https://www.acmicpc.net/status?user_id=sml0399&problem_id=1000&from_mine=1)
 - [001001_A_minus_B.cpp](https://www.acmicpc.net/problem/1001)
 - [001002_turret.cpp](https://www.acmicpc.net/problem/1002)
 - [001003.cpp](https://www.acmicpc.net/problem/1003)
 - [001008_A_divided_by_B.cpp](https://www.acmicpc.net/problem/1008)
+- [001330_compare_two_numbers.cpp](https://www.acmicpc.net/problem/1330)
 - [001463_make_one.cpp](https://www.acmicpc.net/problem/1463)
 - [009012_paranthesis_matching.cpp](https://www.acmicpc.net/problem/9012)
 - [010828_stack.cpp](https://www.acmicpc.net/problem/10828)
@@ -31,4 +35,3 @@
 
 
 
-## List of problems that I tried but not solved yet.
