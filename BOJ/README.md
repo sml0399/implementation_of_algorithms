@@ -35,6 +35,7 @@
 - [010171_cat.cpp](https://www.acmicpc.net/problem/10171)
 - [010172_dog.cpp](https://www.acmicpc.net/problem/10172)
 - [010828_stack.cpp](https://www.acmicpc.net/problem/10828)
+- [010869_calculation.cpp](https://www.acmicpc.net/problem/10869)
 - [010998_AXB.cpp](https://www.acmicpc.net/problem/10998)
 
 
