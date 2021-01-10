@@ -19,7 +19,8 @@
 - solutions provided by others with better performance is placed at 'others_better_solution' directory
 
 ## List of problems(with link) that I tried but not solved yet.
-
+- [010718_we_love_kriii](https://www.acmicpc.net/problem/10718)
+  - korean language cannot be written in my environment(currently)
 ## Links to solved problems
 - [001000_A_plus_B.cpp](https://www.acmicpc.net/status?user_id=sml0399&problem_id=1000&from_mine=1)
 - [001001_A_minus_B.cpp](https://www.acmicpc.net/problem/1001)
@@ -31,6 +32,7 @@
 - [002557_Hello_World.cpp](https://www.acmicpc.net/problem/2557)
 - [009012_paranthesis_matching.cpp](https://www.acmicpc.net/problem/9012)
 - [010171_cat.cpp](https://www.acmicpc.net/problem/10171)
+- [010172_dog.cpp](https://www.acmicpc.net/problem/10172)
 - [010828_stack.cpp](https://www.acmicpc.net/problem/10828)
 
 
