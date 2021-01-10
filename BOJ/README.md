@@ -42,6 +42,7 @@
 - [010718_we_love_kriii](https://www.acmicpc.net/problem/10718)
 - [010828_stack.cpp](https://www.acmicpc.net/problem/10828)
 - [010869_calculation.cpp](https://www.acmicpc.net/problem/10869)
+- [010951_sum_4.cpp](https://www.acmicpc.net/problem/10951)
 - [010952_add5.cpp](https://www.acmicpc.net/problem/10952)
 - [010998_AXB.cpp](https://www.acmicpc.net/problem/10998)
 - [014681_select_quadrant.cpp](https://www.acmicpc.net/problem/14681)
