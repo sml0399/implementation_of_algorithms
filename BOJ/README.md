@@ -26,6 +26,7 @@
 - [001001_A_minus_B.cpp](https://www.acmicpc.net/problem/1001)
 - [001002_turret.cpp](https://www.acmicpc.net/problem/1002)
 - [001003.cpp](https://www.acmicpc.net/problem/1003)
+- [001016_not_square_number.cpp](https://www.acmicpc.net/problem/1016)
 - [001008_A_divided_by_B.cpp](https://www.acmicpc.net/problem/1008)
 - [001330_compare_two_numbers.cpp](https://www.acmicpc.net/problem/1330)
 - [001463_make_one.cpp](https://www.acmicpc.net/problem/1463)
