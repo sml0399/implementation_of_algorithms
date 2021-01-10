@@ -33,6 +33,7 @@
 - [002558_AXB_2.cpp](https://www.acmicpc.net/problem/2588)
 - [005613_calculator.cpp](https://www.acmicpc.net/problem/5613)
 - [009012_paranthesis_matching.cpp](https://www.acmicpc.net/problem/9012)
+- [009498_exam_score.cpp](https://www.acmicpc.net/problem/9498)
 - [010171_cat.cpp](https://www.acmicpc.net/problem/10171)
 - [010172_dog.cpp](https://www.acmicpc.net/problem/10172)
 - [010430_remainder.cpp](https://www.acmicpc.net/problem/10430)
@@ -40,6 +41,8 @@
 - [010828_stack.cpp](https://www.acmicpc.net/problem/10828)
 - [010869_calculation.cpp](https://www.acmicpc.net/problem/10869)
 - [010998_AXB.cpp](https://www.acmicpc.net/problem/10998)
+- [014681_select_quadrant.cpp](https://www.acmicpc.net/problem/14681)
+- [015552_fast_sum.cpp](https://www.acmicpc.net/problem/15552)
 
 
 
