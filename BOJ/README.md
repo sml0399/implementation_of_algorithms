@@ -1,6 +1,6 @@
 # BOJ
 - my own solutions to BOJ problems
-## rules
+## Rules
 - link to the problem must be mentioned due to the [copyright issue](https://www.acmicpc.net/board/view/2185)
 - Name of the file must start with problem number with 6 digits.
 - The codes in this directory must be the most efficient(simple, fast) code for the problem among the codes that I implemented. The code with poor performance(about the same problem) will be stored at 'poor_version' directory.
@@ -30,7 +30,8 @@
 - [001330_compare_two_numbers.cpp](https://www.acmicpc.net/problem/1330)
 - [001463_make_one.cpp](https://www.acmicpc.net/problem/1463)
 - [002557_Hello_World.cpp](https://www.acmicpc.net/problem/2557)
-- [002558_AXB_2.cpp](https://www.acmicpc.net/problem/2588)
+- [002558_sum_2.cpp](https://www.acmicpc.net/problem/2558)
+- [002588_AXB_2.cpp](https://www.acmicpc.net/problem/2588)
 - [002753_leap_year.cpp](https://www.acmicpc.net/problem/2753)
 - [002884_alarm_clock.cpp](https://www.acmicpc.net/problem/2884)
 - [005613_calculator.cpp](https://www.acmicpc.net/problem/5613)
