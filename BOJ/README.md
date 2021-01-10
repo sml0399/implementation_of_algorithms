@@ -48,6 +48,7 @@
 - [010952_sum_5.cpp](https://www.acmicpc.net/problem/10952)
 - [010953_sum_6.cpp](https://www.acmicpc.net/problem/10953)
 - [010998_AXB.cpp](https://www.acmicpc.net/problem/10998)
+- [011021_sum_7.cpp](https://www.acmicpc.net/problem/11021)
 - [014681_select_quadrant.cpp](https://www.acmicpc.net/problem/14681)
 - [015552_fast_sum.cpp](https://www.acmicpc.net/problem/15552)
 
