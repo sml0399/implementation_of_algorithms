@@ -33,6 +33,7 @@
 - [002557_Hello_World.cpp](https://www.acmicpc.net/problem/2557)
 - [002558_sum_2.cpp](https://www.acmicpc.net/problem/2558)
 - [002588_AXB_2.cpp](https://www.acmicpc.net/problem/2588)
+- [002739_multiplication_table.cpp](https://www.acmicpc.net/problem/2739)
 - [002753_leap_year.cpp](https://www.acmicpc.net/problem/2753)
 - [002884_alarm_clock.cpp](https://www.acmicpc.net/problem/2884)
 - [005613_calculator.cpp](https://www.acmicpc.net/problem/5613)
