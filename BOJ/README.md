@@ -30,6 +30,7 @@
 - [001024_sum_of_sequence.cpp](https://www.acmicpc.net/problem/1024)
 - [001330_compare_two_numbers.cpp](https://www.acmicpc.net/problem/1330)
 - [001463_make_one.cpp](https://www.acmicpc.net/problem/1463)
+- [002438_print_star.cpp](https://www.acmicpc.net/problem/2438)
 - [002557_Hello_World.cpp](https://www.acmicpc.net/problem/2557)
 - [002558_sum_2.cpp](https://www.acmicpc.net/problem/2558)
 - [002588_AXB_2.cpp](https://www.acmicpc.net/problem/2588)
