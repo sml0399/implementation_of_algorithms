@@ -27,6 +27,7 @@
 - [001003.cpp](https://www.acmicpc.net/problem/1003)
 - [001008_A_divided_by_B.cpp](https://www.acmicpc.net/problem/1008)
 - [001016_not_square_number.cpp](https://www.acmicpc.net/problem/1016)
+- [001024_sum_of_sequence.cpp](https://www.acmicpc.net/problem/1024)
 - [001330_compare_two_numbers.cpp](https://www.acmicpc.net/problem/1330)
 - [001463_make_one.cpp](https://www.acmicpc.net/problem/1463)
 - [002557_Hello_World.cpp](https://www.acmicpc.net/problem/2557)
