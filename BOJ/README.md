@@ -35,6 +35,7 @@
 - [002439_print_star_2.cpp](https://www.acmicpc.net/problem/2439)
 - [002557_Hello_World.cpp](https://www.acmicpc.net/problem/2557)
 - [002558_sum_2.cpp](https://www.acmicpc.net/problem/2558)
+- [002562_max_with_index.cpp](https://www.acmicpc.net/problem/2562)
 - [002588_AXB_2.cpp](https://www.acmicpc.net/problem/2588)
 - [002739_multiplication_table.cpp](https://www.acmicpc.net/problem/2739)
 - [002741_print_N.cpp](https://www.acmicpc.net/problem/2741)
