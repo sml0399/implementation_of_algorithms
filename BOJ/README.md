@@ -45,6 +45,7 @@
 - [002753_leap_year.cpp](https://www.acmicpc.net/problem/2753)
 - [002884_alarm_clock.cpp](https://www.acmicpc.net/problem/2884)
 - [003052_remainder.cpp](https://www.acmicpc.net/problem/3052)
+- [004344_over_average.cpp](https://www.acmicpc.net/problem/4344)
 - [005613_calculator.cpp](https://www.acmicpc.net/problem/5613)
 - [008393_sum_n_numbers.cpp](https://www.acmicpc.net/problem/8393)
 - [008958_OX.cpp](https://www.acmicpc.net/problem/8958)
