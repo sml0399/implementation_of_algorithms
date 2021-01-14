@@ -31,6 +31,7 @@
 - [001110_addition_cycle.cpp](https://www.acmicpc.net/problem/1110)
 - [001330_compare_two_numbers.cpp](https://www.acmicpc.net/problem/1330)
 - [001463_make_one.cpp](https://www.acmicpc.net/problem/1463)
+- [001546_mean.cpp](https://www.acmicpc.net/problem/1546)
 - [002438_print_star.cpp](https://www.acmicpc.net/problem/2438)
 - [002439_print_star_2.cpp](https://www.acmicpc.net/problem/2439)
 - [002557_Hello_World.cpp](https://www.acmicpc.net/problem/2557)
