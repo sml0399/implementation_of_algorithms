@@ -71,7 +71,7 @@
 - [011720_sum_of_numbers.cpp](https://www.acmicpc.net/problem/11720)
 - [014681_select_quadrant.cpp](https://www.acmicpc.net/problem/14681)
 - [015552_fast_sum.cpp](https://www.acmicpc.net/problem/15552)
-
+- [015596_sum_N.cpp](https://www.acmicpc.net/problem/15596)
 
 
 
