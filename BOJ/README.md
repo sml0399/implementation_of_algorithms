@@ -30,6 +30,7 @@
 - [001016_not_square_number.cpp](https://www.acmicpc.net/problem/1016)
 - [001024_sum_of_sequence.cpp](https://www.acmicpc.net/problem/1024)
 - [001110_addition_cycle.cpp](https://www.acmicpc.net/problem/1110)
+- [001193_find_fraction.cpp](https://www.acmicpc.net/problem/1193)
 - [001330_compare_two_numbers.cpp](https://www.acmicpc.net/problem/1330)
 - [001463_make_one.cpp](https://www.acmicpc.net/problem/1463)
 - [001546_mean.cpp](https://www.acmicpc.net/problem/1546)
