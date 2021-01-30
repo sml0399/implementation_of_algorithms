@@ -45,6 +45,7 @@
 - [002741_print_N.cpp](https://www.acmicpc.net/problem/2741)
 - [002742_reverse_print_N.cpp](https://www.acmicpc.net/problem/2742)
 - [002753_leap_year.cpp](https://www.acmicpc.net/problem/2753)
+- [002775.cpp](https://www.acmicpc.net/problem/2775)
 - [002884_alarm_clock.cpp](https://www.acmicpc.net/problem/2884)
 - [003052_remainder.cpp](https://www.acmicpc.net/problem/3052)
 - [004344_over_average.cpp](https://www.acmicpc.net/problem/4344)
