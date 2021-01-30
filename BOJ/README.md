@@ -16,6 +16,7 @@
   0.33333333333333331
   ```
 - clear.sh will remove compiled executable binary files(at 'executable' directory) and temporary files(file name ends with '~')
+- gac.sh will add and commit to git repository(but not push). You will be asked to type the name for commit.
 - solutions provided by others with better performance is placed at 'others_better_solution' directory
 
 ## List of problems(with link) that I tried but not solved yet.
