@@ -64,6 +64,7 @@
 - [010818_min_max.cpp](https://www.acmicpc.net/problem/10818)
 - [010828_stack.cpp](https://www.acmicpc.net/problem/10828)
 - [010869_calculation.cpp](https://www.acmicpc.net/problem/10869)
+- [010870_fibonacci.cpp](https://www.acmicpc.net/problem/10870)
 - [010871_samller_than_x.cpp](https://www.acmicpc.net/problem/10871)
 - [010872_factorial.cpp](https://www.acmicpc.net/problem/10872)
 - [010950_sum_3.cpp](https://www.acmicpc.net/problem/10950)
