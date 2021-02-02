@@ -36,6 +36,7 @@
 - [001546_mean.cpp](https://www.acmicpc.net/problem/1546)
 - [001978_prime_numbers.cpp](https://www.acmicpc.net/problem/1978)
 - [002438_print_star.cpp](https://www.acmicpc.net/problem/2438)
+- [002447_print_stars.cpp](https://www.acmicpc.net/problem/2447)
 - [002439_print_star_2.cpp](https://www.acmicpc.net/problem/2439)
 - [002557_Hello_World.cpp](https://www.acmicpc.net/problem/2557)
 - [002558_sum_2.cpp](https://www.acmicpc.net/problem/2558)
