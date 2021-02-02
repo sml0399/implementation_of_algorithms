@@ -50,6 +50,7 @@
 - [002775.cpp](https://www.acmicpc.net/problem/2775)
 - [002884_alarm_clock.cpp](https://www.acmicpc.net/problem/2884)
 - [003052_remainder.cpp](https://www.acmicpc.net/problem/3052)
+- [003053_taxi_distance.cpp](https://www.acmicpc.net/problem/3053)
 - [004344_over_average.cpp](https://www.acmicpc.net/problem/4344)
 - [005613_calculator.cpp](https://www.acmicpc.net/problem/5613)
 - [008393_sum_n_numbers.cpp](https://www.acmicpc.net/problem/8393)
