@@ -22,6 +22,9 @@
 ## grading criteria
 - refer to [link1](https://www.acmicpc.net/help/faq), [link2](https://www.acmicpc.net/help/judge)
 
+## Tips
+- [fast stream I/O](https://www.acmicpc.net/board/view/22716)
+
 ## List of problems(with link) that I tried but not solved yet.
 - [006571_number_of_fibonacci.cpp](https://www.acmicpc.net/problem/6571)
 ## Links to solved problems
