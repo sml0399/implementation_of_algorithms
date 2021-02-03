@@ -19,6 +19,9 @@
 - gac.sh will add and commit to git repository(but not push). You will be asked to type the name for commit.
 - solutions provided by others with better performance is placed at 'others_better_solution' directory
 
+## grading criteria
+- refer to [link1](https://www.acmicpc.net/help/faq), [link2](https://www.acmicpc.net/help/judge)
+
 ## List of problems(with link) that I tried but not solved yet.
 - [006571_number_of_fibonacci.cpp](https://www.acmicpc.net/problem/6571)
 ## Links to solved problems
@@ -34,6 +37,7 @@
 - [001330_compare_two_numbers.cpp](https://www.acmicpc.net/problem/1330)
 - [001463_make_one.cpp](https://www.acmicpc.net/problem/1463)
 - [001546_mean.cpp](https://www.acmicpc.net/problem/1546)
+- [001929_get_prime.cpp](https://www.acmicpc.net/problem/1929)
 - [001978_prime_numbers.cpp](https://www.acmicpc.net/problem/1978)
 - [002438_print_star.cpp](https://www.acmicpc.net/problem/2438)
 - [002447_print_stars.cpp](https://www.acmicpc.net/problem/2447)
