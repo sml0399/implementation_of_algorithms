@@ -54,6 +54,7 @@
 - [002753_leap_year.cpp](https://www.acmicpc.net/problem/2753)
 - [002775.cpp](https://www.acmicpc.net/problem/2775)
 - [002884_alarm_clock.cpp](https://www.acmicpc.net/problem/2884)
+- [003009_fourth_point.cpp](https://www.acmicpc.net/problem/3009)
 - [003052_remainder.cpp](https://www.acmicpc.net/problem/3052)
 - [003053_taxi_distance.cpp](https://www.acmicpc.net/problem/3053)
 - [004153_right_triangle](https://www.acmicpc.net/problem/4153)
