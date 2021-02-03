@@ -3,13 +3,13 @@
 ## Rules
 - link to the problem must be mentioned due to the [copyright issue](https://www.acmicpc.net/board/view/2185)
 - Name of the file must start with problem number with 6 digits.
-- The codes in this directory must be the most efficient(simple, fast) code for the problem among the codes that I implemented. The code with poor performance(about the same problem) will be stored at 'poor_version' directory.
+- The codes in the 'code' directory must be the most efficient(simple, fast) code for the problem among the codes that I implemented. The code with poor performance(about the same problem) will be stored at 'poor_version' directory.
 - When git is cloned, you must manually create 'executable' directory
 - compile.sh will compile c++ files(.cpp) to 'executable' directory
 - fce.sh will find the question that matches question number, compile it, execute it.
   - usage example:(you have to type question number when asked)
   ```console
-  foo@bar:~/implementation_of_algorithms/BOJ$ ./fce.sh
+  foo@bar:~/implementation_of_algorithms/BOJ/code$ ./fce.sh
   question number: 001008
   compile finished. Now executing 001008_A_divided_by_B
   1 3
