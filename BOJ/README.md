@@ -64,6 +64,7 @@
 - [004153_right_triangle](https://www.acmicpc.net/problem/4153)
 - [004344_over_average.cpp](https://www.acmicpc.net/problem/4344)
 - [004673_self_number.cpp](https://www.acmicpc.net/problem/4673)
+- [004948_Bertrands_postulate.cpp](https://www.acmicpc.net/problem/4948)
 - [005613_calculator.cpp](https://www.acmicpc.net/problem/5613)
 - [008393_sum_n_numbers.cpp](https://www.acmicpc.net/problem/8393)
 - [008958_OX.cpp](https://www.acmicpc.net/problem/8958)
