@@ -42,6 +42,7 @@
 - [001330_compare_two_numbers.cpp](https://www.acmicpc.net/problem/1330)
 - [001463_make_one.cpp](https://www.acmicpc.net/problem/1463)
 - [001546_mean.cpp](https://www.acmicpc.net/problem/1546)
+- [001712.cpp](https://www.acmicpc.net/problem/1712)
 - [001929_get_prime.cpp](https://www.acmicpc.net/problem/1929)
 - [001978_prime_numbers.cpp](https://www.acmicpc.net/problem/1978)
 - [002438_print_star.cpp](https://www.acmicpc.net/problem/2438)
