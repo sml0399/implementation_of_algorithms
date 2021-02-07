@@ -35,6 +35,7 @@
 - [001008_A_divided_by_B.cpp](https://www.acmicpc.net/problem/1008)
 - [001016_not_square_number.cpp](https://www.acmicpc.net/problem/1016)
 - [001024_sum_of_sequence.cpp](https://www.acmicpc.net/problem/1024)
+- [001065_one-number.cpp](https://www.acmicpc.net/problem/1065)
 - [001085_min_rectangle_escape.cpp](https://www.acmicpc.net/problem/1085)
 - [001110_addition_cycle.cpp](https://www.acmicpc.net/problem/1110)
 - [001193_find_fraction.cpp](https://www.acmicpc.net/problem/1193)
