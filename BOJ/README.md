@@ -73,6 +73,7 @@
 - [008393_sum_n_numbers.cpp](https://www.acmicpc.net/problem/8393)
 - [008958_OX.cpp](https://www.acmicpc.net/problem/8958)
 - [009012_paranthesis_matching.cpp](https://www.acmicpc.net/problem/9012)
+- [009020_Goldbachs_conjecture](https://www.acmicpc.net/problem/9020)
 - [009498_exam_score.cpp](https://www.acmicpc.net/problem/9498)
 - [010171_cat.cpp](https://www.acmicpc.net/problem/10171)
 - [010172_dog.cpp](https://www.acmicpc.net/problem/10172)
