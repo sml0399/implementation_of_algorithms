@@ -93,6 +93,7 @@
 - [010951_sum_4.cpp](https://www.acmicpc.net/problem/10951)
 - [010952_sum_5.cpp](https://www.acmicpc.net/problem/10952)
 - [010953_sum_6.cpp](https://www.acmicpc.net/problem/10953)
+- [010989_sort_3.cpp](https://www.acmicpc.net/problem/10989)
 - [010998_AXB.cpp](https://www.acmicpc.net/problem/10998)
 - [011021_sum_7.cpp](https://www.acmicpc.net/problem/11021)
 - [011022_sum_8.cpp](https://www.acmicpc.net/problem/11022)
