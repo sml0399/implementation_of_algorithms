@@ -58,6 +58,7 @@
 - [002741_print_N.cpp](https://www.acmicpc.net/problem/2741)
 - [002742_reverse_print_N.cpp](https://www.acmicpc.net/problem/2742)
 - [002750_sort_1.cpp](https://www.acmicpc.net/problem/2750)
+- [002751_sort_2.cpp](https://www.acmicpc.net/problem/2751)
 - [002753_leap_year.cpp](https://www.acmicpc.net/problem/2753)
 - [002775.cpp](https://www.acmicpc.net/problem/2775)
 - [002869_going_up.cpp](https://www.acmicpc.net/problem/2869)
