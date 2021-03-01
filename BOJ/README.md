@@ -98,6 +98,7 @@
 - [010998_AXB.cpp](https://www.acmicpc.net/problem/10998)
 - [011021_sum_7.cpp](https://www.acmicpc.net/problem/11021)
 - [011022_sum_8.cpp](https://www.acmicpc.net/problem/11022)
+- [011650_sort_coordinates.cpp](https://www.acmicpc.net/problem/11650)
 - [011653_factorization.cpp](https://www.acmicpc.net/problem/11653)
 - [011654_ASCII.cpp](https://www.acmicpc.net/problem/11654)
 - [011720_sum_of_numbers.cpp](https://www.acmicpc.net/problem/11720)
