@@ -1,5 +1,7 @@
 # implementation_of_algorithms
 
+- After cloning the repository, execute setup.sh once. This will do some necessary operations to setup environment
+
 - CLRS
   - Book: Introduction to Algorithms Thomas H.Cormen 3rd edition
   - implementation of pseudocode to cpp or python code & solutions with implementation
