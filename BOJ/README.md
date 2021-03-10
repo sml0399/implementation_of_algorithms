@@ -7,10 +7,9 @@
 - When git is cloned, you must manually create 'executable' directory
 - compile.sh will compile c++ files(.cpp) to 'executable' directory
 - fce.sh will find the question that matches question number, compile it, execute it.
-  - usage example:(you have to type question number when asked)
+  - usage example:(you have to type question number)
   ```console
-  foo@bar:~/implementation_of_algorithms/BOJ/code$ ./fce.sh
-  question number: 001008
+  foo@bar:~/implementation_of_algorithms/BOJ/code$ ./fce.sh 001008
   compile finished. Now executing 001008_A_divided_by_B
   1 3
   0.33333333333333331
