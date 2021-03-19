@@ -56,6 +56,7 @@
 - [002577_number_count.cpp](https://www.acmicpc.net/problem/2577)
 - [002581_prime_numbers.cpp](https://www.acmicpc.net/problem/2581)
 - [002588_AXB_2.cpp](https://www.acmicpc.net/problem/2588)
+- [002675_string_repetition.cpp](https://www.acmicpc.net/problem/2675)
 - [002739_multiplication_table.cpp](https://www.acmicpc.net/problem/2739)
 - [002741_print_N.cpp](https://www.acmicpc.net/problem/2741)
 - [002742_reverse_print_N.cpp](https://www.acmicpc.net/problem/2742)
