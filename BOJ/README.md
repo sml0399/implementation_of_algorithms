@@ -49,6 +49,7 @@
 - [002438_print_star.cpp](https://www.acmicpc.net/problem/2438)
 - [002447_print_stars.cpp](https://www.acmicpc.net/problem/2447)
 - [002439_print_star_2.cpp](https://www.acmicpc.net/problem/2439)
+- [002475_verification_number.cpp](https://www.acmicpc.net/problem/2475)
 - [002557_Hello_World.cpp](https://www.acmicpc.net/problem/2557)
 - [002558_sum_2.cpp](https://www.acmicpc.net/problem/2558)
 - [002562_max_with_index.cpp](https://www.acmicpc.net/problem/2562)
