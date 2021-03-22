@@ -64,6 +64,7 @@
 - [002751_sort_2.cpp](https://www.acmicpc.net/problem/2751)
 - [002753_leap_year.cpp](https://www.acmicpc.net/problem/2753)
 - [002775.cpp](https://www.acmicpc.net/problem/2775)
+- [002798_black_jack.cpp](https://www.acmicpc.net/problem/2798)
 - [002869_going_up.cpp](https://www.acmicpc.net/problem/2869)
 - [002884_alarm_clock.cpp](https://www.acmicpc.net/problem/2884)
 - [002908_constant.cpp](https://www.acmicpc.net/problem/2908)
