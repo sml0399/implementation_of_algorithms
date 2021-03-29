@@ -22,3 +22,4 @@
 
 ## Links to solved problems
 - [001068_weird_algorithm.cpp](https://cses.fi/problemset/task/1068/)
+- [001083_missing_number.cpp](https://cses.fi/problemset/task/1083)
